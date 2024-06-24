@@ -1,0 +1,6 @@
+.Task{
+    border: 1px solid black;
+    margin: 15px;
+    max-height: 300px;
+    max-width: 600px; 
+}
